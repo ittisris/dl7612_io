@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "cayenne_lpp": "github:ittisris/pxt-cayenne_lpp#45e9445f194e2400bbd0df9949755591f9c20f31"
     },
     "files": [
         "README.md",
